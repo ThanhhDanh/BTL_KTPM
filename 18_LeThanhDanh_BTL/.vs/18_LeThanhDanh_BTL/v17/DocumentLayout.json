@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BTL-KTPM\\18_LeThanhDanh_BTL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2574A95-512C-49A9-9B40-3E869538B226}|18_LeThanhDanh_BTL_NUnit_Tester\\18_LeThanhDanh_BTL_NUnit_Tester.csproj|d:\\btl-ktpm\\18_lethanhdanh_btl\\18_lethanhdanh_btl_nunit_tester\\18_danh_data\\18_danh_datatamgiac.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B2574A95-512C-49A9-9B40-3E869538B226}|18_LeThanhDanh_BTL_NUnit_Tester\\18_LeThanhDanh_BTL_NUnit_Tester.csproj|solutionrelative:18_lethanhdanh_btl_nunit_tester\\18_danh_data\\18_danh_datatamgiac.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51570C7D-1E13-4863-B98B-BFED0F586972}|18_LeThanhDanh_BTL_NUnit\\18_LeThanhDanh_BTL_NUnit.csproj|d:\\btl-ktpm\\18_lethanhdanh_btl\\18_lethanhdanh_btl_nunit\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51570C7D-1E13-4863-B98B-BFED0F586972}|18_LeThanhDanh_BTL_NUnit\\18_LeThanhDanh_BTL_NUnit.csproj|solutionrelative:18_lethanhdanh_btl_nunit\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2574A95-512C-49A9-9B40-3E869538B226}|18_LeThanhDanh_BTL_NUnit_Tester\\18_LeThanhDanh_BTL_NUnit_Tester.csproj|d:\\btl-ktpm\\18_lethanhdanh_btl\\18_lethanhdanh_btl_nunit_tester\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2574A95-512C-49A9-9B40-3E869538B226}|18_LeThanhDanh_BTL_NUnit_Tester\\18_LeThanhDanh_BTL_NUnit_Tester.csproj|solutionrelative:18_lethanhdanh_btl_nunit_tester\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51570C7D-1E13-4863-B98B-BFED0F586972}|18_LeThanhDanh_BTL_NUnit\\18_LeThanhDanh_BTL_NUnit.csproj|d:\\btl-ktpm\\18_lethanhdanh_btl\\18_lethanhdanh_btl_nunit\\checktamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51570C7D-1E13-4863-B98B-BFED0F586972}|18_LeThanhDanh_BTL_NUnit\\18_LeThanhDanh_BTL_NUnit.csproj|solutionrelative:18_lethanhdanh_btl_nunit\\checktamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51570C7D-1E13-4863-B98B-BFED0F586972}|18_LeThanhDanh_BTL_NUnit\\18_LeThanhDanh_BTL_NUnit.csproj|d:\\btl-ktpm\\18_lethanhdanh_btl\\18_lethanhdanh_btl_nunit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51570C7D-1E13-4863-B98B-BFED0F586972}|18_LeThanhDanh_BTL_NUnit\\18_LeThanhDanh_BTL_NUnit.csproj|solutionrelative:18_lethanhdanh_btl_nunit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51570C7D-1E13-4863-B98B-BFED0F586972}|18_LeThanhDanh_BTL_NUnit\\18_LeThanhDanh_BTL_NUnit.csproj|d:\\btl-ktpm\\18_lethanhdanh_btl\\18_lethanhdanh_btl_nunit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{51570C7D-1E13-4863-B98B-BFED0F586972}|18_LeThanhDanh_BTL_NUnit\\18_LeThanhDanh_BTL_NUnit.csproj|solutionrelative:18_lethanhdanh_btl_nunit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\BTL-KTPM\\18_LeThanhDanh_BTL\\18_LeThanhDanh_BTL_NUnit\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "18_LeThanhDanh_BTL_NUnit\\Form1.Designer.cs",
+              "ToolTip": "D:\\BTL-KTPM\\18_LeThanhDanh_BTL\\18_LeThanhDanh_BTL_NUnit\\Form1.Designer.cs",
+              "RelativeToolTip": "18_LeThanhDanh_BTL_NUnit\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:01:21.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "18_Danh_DataTamGiac.csv",
+              "DocumentMoniker": "D:\\BTL-KTPM\\18_LeThanhDanh_BTL\\18_LeThanhDanh_BTL_NUnit_Tester\\18_Danh_Data\\18_Danh_DataTamGiac.csv",
+              "RelativeDocumentMoniker": "18_LeThanhDanh_BTL_NUnit_Tester\\18_Danh_Data\\18_Danh_DataTamGiac.csv",
+              "ToolTip": "D:\\BTL-KTPM\\18_LeThanhDanh_BTL\\18_LeThanhDanh_BTL_NUnit_Tester\\18_Danh_Data\\18_Danh_DataTamGiac.csv",
+              "RelativeToolTip": "18_LeThanhDanh_BTL_NUnit_Tester\\18_Danh_Data\\18_Danh_DataTamGiac.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-13T08:11:43.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\BTL-KTPM\\18_LeThanhDanh_BTL\\18_LeThanhDanh_BTL_NUnit_Tester\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "18_LeThanhDanh_BTL_NUnit_Tester\\UnitTest1.cs",
+              "ToolTip": "D:\\BTL-KTPM\\18_LeThanhDanh_BTL\\18_LeThanhDanh_BTL_NUnit_Tester\\UnitTest1.cs",
+              "RelativeToolTip": "18_LeThanhDanh_BTL_NUnit_Tester\\UnitTest1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:49:41.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckTamGiac.cs",
+              "DocumentMoniker": "D:\\BTL-KTPM\\18_LeThanhDanh_BTL\\18_LeThanhDanh_BTL_NUnit\\CheckTamGiac.cs",
+              "RelativeDocumentMoniker": "18_LeThanhDanh_BTL_NUnit\\CheckTamGiac.cs",
+              "ToolTip": "D:\\BTL-KTPM\\18_LeThanhDanh_BTL\\18_LeThanhDanh_BTL_NUnit\\CheckTamGiac.cs",
+              "RelativeToolTip": "18_LeThanhDanh_BTL_NUnit\\CheckTamGiac.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:02:26.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\BTL-KTPM\\18_LeThanhDanh_BTL\\18_LeThanhDanh_BTL_NUnit\\Form1.cs",
+              "RelativeDocumentMoniker": "18_LeThanhDanh_BTL_NUnit\\Form1.cs",
+              "ToolTip": "D:\\BTL-KTPM\\18_LeThanhDanh_BTL\\18_LeThanhDanh_BTL_NUnit\\Form1.cs",
+              "RelativeToolTip": "18_LeThanhDanh_BTL_NUnit\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:51:54.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\BTL-KTPM\\18_LeThanhDanh_BTL\\18_LeThanhDanh_BTL_NUnit\\Form1.cs",
+              "RelativeDocumentMoniker": "18_LeThanhDanh_BTL_NUnit\\Form1.cs",
+              "ToolTip": "D:\\BTL-KTPM\\18_LeThanhDanh_BTL\\18_LeThanhDanh_BTL_NUnit\\Form1.cs [Design]",
+              "RelativeToolTip": "18_LeThanhDanh_BTL_NUnit\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T06:50:39.611Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

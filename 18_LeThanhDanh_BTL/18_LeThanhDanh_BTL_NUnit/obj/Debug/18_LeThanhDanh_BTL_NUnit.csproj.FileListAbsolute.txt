@@ -1,0 +1,10 @@
+D:\BTL-KTPM\18_LeThanhDanh_BTL\18_LeThanhDanh_BTL_NUnit\bin\Debug\18_LeThanhDanh_BTL_NUnit.exe.config
+D:\BTL-KTPM\18_LeThanhDanh_BTL\18_LeThanhDanh_BTL_NUnit\bin\Debug\18_LeThanhDanh_BTL_NUnit.exe
+D:\BTL-KTPM\18_LeThanhDanh_BTL\18_LeThanhDanh_BTL_NUnit\bin\Debug\18_LeThanhDanh_BTL_NUnit.pdb
+D:\BTL-KTPM\18_LeThanhDanh_BTL\18_LeThanhDanh_BTL_NUnit\obj\Debug\18_LeThanhDanh_BTL_NUnit.csproj.AssemblyReference.cache
+D:\BTL-KTPM\18_LeThanhDanh_BTL\18_LeThanhDanh_BTL_NUnit\obj\Debug\_18_LeThanhDanh_BTL_NUnit.Form1.resources
+D:\BTL-KTPM\18_LeThanhDanh_BTL\18_LeThanhDanh_BTL_NUnit\obj\Debug\_18_LeThanhDanh_BTL_NUnit.Properties.Resources.resources
+D:\BTL-KTPM\18_LeThanhDanh_BTL\18_LeThanhDanh_BTL_NUnit\obj\Debug\18_LeThanhDanh_BTL_NUnit.csproj.GenerateResource.cache
+D:\BTL-KTPM\18_LeThanhDanh_BTL\18_LeThanhDanh_BTL_NUnit\obj\Debug\18_LeThanhDanh_BTL_NUnit.csproj.CoreCompileInputs.cache
+D:\BTL-KTPM\18_LeThanhDanh_BTL\18_LeThanhDanh_BTL_NUnit\obj\Debug\18_LeThanhDanh_BTL_NUnit.exe
+D:\BTL-KTPM\18_LeThanhDanh_BTL\18_LeThanhDanh_BTL_NUnit\obj\Debug\18_LeThanhDanh_BTL_NUnit.pdb
